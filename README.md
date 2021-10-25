@@ -24,6 +24,7 @@ Tip: The bot needs the ADMINISTRATOR permission! Restrictions do not affect memb
 
 
 ## Commands
+<...> Duty | [...] Optional
 ```
 s!help
 s!setup
@@ -33,7 +34,7 @@ s!permissions
 s!about
 s!invite
 s!serverinfo
-s!userinfo
+s!userinfo [member]
 s!prefix
 s!inviteinfo
 s!commands
