@@ -23,7 +23,7 @@ With some powerful features, Server Security will be able to protect your server
 Tip: The bot needs the ADMINISTRATOR permission! Restrictions do not affect members with ADMINISTRATOR permission!
 
 
-## Commands
+## Some Commands
 <...> Duty | [...] Optional
 ```
 s!help
