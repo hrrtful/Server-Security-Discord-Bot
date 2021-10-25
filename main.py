@@ -143,4 +143,4 @@ async def uptime(ctx):
     await ctx.send(embed=embed)
 
 
-client.run("ODgyOTAxMzQ1NDY2NzI0Mzcz.YTCH9A.gK_yKXluYqZNBdfCpMAy22YLgNQ")
+client.run("TOKEN")
