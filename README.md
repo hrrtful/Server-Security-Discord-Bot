@@ -51,7 +51,5 @@ s!unmute <member>
 s!clear <amount>
 s!nuke
 s!role <add/remove> <member> <role>
-
 ```
-
 For more information about a feature/module `s!feature <feature>`
