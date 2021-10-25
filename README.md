@@ -53,3 +53,6 @@ s!nuke
 s!role <add/remove> <member> <role>
 ```
 For more information about a feature/module `s!feature <feature>`
+
+## Extra
+Server Security supports multi-guild functionality, which means it can run on multiple servers, with individual options for each server.
