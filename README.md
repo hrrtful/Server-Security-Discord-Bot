@@ -24,7 +24,8 @@ Tip: The bot needs the ADMINISTRATOR permission! Restrictions do not affect memb
 
 
 ## Commands
-```s!help
+```**General Command**
+s!help
 s!setup
 s!features
 s!about
@@ -36,4 +37,4 @@ s!inviteinfo
 s!commands
 s!bug (This command sends a message to my server with the bug, you should maybe not change this command)
 s!fetchuser
-s!snipe```
+s!snipe
