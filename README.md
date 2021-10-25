@@ -28,6 +28,8 @@ Tip: The bot needs the ADMINISTRATOR permission! Restrictions do not affect memb
 s!help
 s!setup
 s!features
+s!settings
+s!permissions
 s!about
 s!invite
 s!serverinfo
@@ -48,5 +50,3 @@ s!unmute
 s!clear
 s!nuke
 s!role
-
-
