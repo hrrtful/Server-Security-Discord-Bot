@@ -24,7 +24,7 @@ Tip: The bot needs the ADMINISTRATOR permission! Restrictions do not affect memb
 
 
 ## Commands
-```**General Command**
+```
 s!help
 s!setup
 s!features
@@ -38,3 +38,15 @@ s!commands
 s!bug (This command sends a message to my server with the bug, you should maybe not change this command)
 s!fetchuser
 s!snipe
+s!lock
+s!unlock
+s!ban
+s!kick
+s!unban
+s!mute
+s!unmute
+s!clear
+s!nuke
+s!role
+
+
