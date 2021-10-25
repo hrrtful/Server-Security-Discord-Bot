@@ -1,1 +1,8 @@
-
+Augmentor
+discord.py
+numpy
+aiohttp
+pillow
+discord_components
+reactionmenu
+pytz
