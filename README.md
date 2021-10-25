@@ -2,4 +2,5 @@
 Anti-Nuke capabilities, powerful moderation features, auto punishments, captcha-verification and more.
 
 
-# Captcha
+**Captcha**
+
