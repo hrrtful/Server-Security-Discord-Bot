@@ -60,3 +60,5 @@ For more information about a feature/module `s!feature <feature>`
 
 ## Extra
 Server Security supports multi-guild functionality, which means it can run on multiple servers, with individual options for each server.
+
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
